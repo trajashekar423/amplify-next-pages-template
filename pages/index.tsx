@@ -25,7 +25,7 @@ export default function App() {
 
   return (
     <main>
-      <h1>My todos2222</h1>
+      <h1>My todos</h1>
       <button onClick={createTodo}>+ new</button>
       <ul>
         {todos.map((todo) => (
@@ -36,7 +36,7 @@ export default function App() {
         🥳 App successfully hosted. Try creating a new todo.
         <br />
         <a href="https://docs.amplify.aws/gen2/start/quickstart/nextjs-pages-router/">
-          Review next steps of this tutorial.
+          Review next steps of this tutoria11111111111111111111111111111l.
         </a>
       </div>
     </main>
